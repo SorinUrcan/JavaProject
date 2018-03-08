@@ -1,0 +1,8 @@
+Online Book Store
+
+Buy Books - search books - 
+regular + administrator (create books, users, gen not on stock raports)
+csv - genereaza doua tipuri de rapoarte (cu factory methods)
+baze de date xml JAXB (tutorial pe fb)
+
++ read me how to use, poze, testare aplicatie cu unit teste
